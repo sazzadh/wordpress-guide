@@ -1,6 +1,6 @@
 ## Disable Gutenberg editor on custom page template
 
-you many need it to use as a background
+Copy this code in your theme's `functions.php` file
 
 ```php
 /**
