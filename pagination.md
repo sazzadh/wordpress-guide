@@ -52,16 +52,16 @@ Standerd WordPress loop. Put it right after the loop close
 
 ```php
 if(function_exists('glsa_paginate')){
-	glsa_paginate($query = NULL);
+	echo glsa_paginate($query = NULL);
 }
 ```
 
-Custom Query Loop WordPress loop. Put it right after the loop close
+Custom Query loop. Put it right after the loop close
 
 ```php
 $the_query = new WP_Query( $args );
 
 if(function_exists('glsa_paginate')){
-	glsa_paginate($the_query);
+	echo glsa_paginate($the_query);
 }
 ```
