@@ -15,3 +15,4 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 * [Ajax Example](https://sazzadh.github.io/wordpress-guide/ajax-example.html)
 * [Custom Metabox](https://sazzadh.github.io/wordpress-guide/custom-metabox.html)
 * [Repeatable Metabox](https://sazzadh.github.io/wordpress-guide/repeatable-metabox.html)
+* [Ajax Post Load More](https://sazzadh.github.io/wordpress-guide/ajax-post-load-more.html)
